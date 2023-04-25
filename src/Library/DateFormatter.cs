@@ -1,4 +1,5 @@
-﻿namespace TestDateFormat;
+﻿
+namespace TestDateFormat;
 
 /// <summary>
 /// Esta clase implementa la funcionalidad de cambiar el formato de una fecha.
